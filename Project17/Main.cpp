@@ -59,6 +59,6 @@ int main()
             break;
         }
     }
-
+    delete[]hdarr;
     return 0;
 }
